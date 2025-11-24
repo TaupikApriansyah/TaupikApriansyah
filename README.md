@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 -->
 
 🌱 I’m currently **laravel** 
-<<<<<<< HEAD
-🌱 I’m currently **React** 
 =======
 🌱 I’m currently **React** 
->>>>>>> b27a8e265e8988a1f6fd8cab8b8f669b85db0835
+
+
