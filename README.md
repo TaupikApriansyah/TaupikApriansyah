@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently **React** 
 🌱 I’m currently **laravel** 
+
 <h2 align="left">u wanna play with me?</h2>
 
 ###
@@ -29,6 +30,4 @@ Here are some ideas to get you started:
 </picture>
 
 ###
-
-
 
