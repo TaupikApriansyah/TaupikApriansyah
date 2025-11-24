@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-🌱 I’m currently **React** 
-🌱 I’m currently **laravel** 
-
 <h2 align="left">u wanna play with me?</h2>
 
 ###
@@ -30,4 +26,8 @@ Here are some ideas to get you started:
 </picture>
 
 ###
+
+🌱 I’m currently **React** 
+🌱 I’m currently **laravel** 
+
 
