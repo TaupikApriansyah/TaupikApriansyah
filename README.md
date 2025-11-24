@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently **laravel** 
-=======
 🌱 I’m currently **React** 
+🌱 I’m currently **laravel** 
+
+
 
 
