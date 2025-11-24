@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello Guys im Taupik Apriansyah👋
+![Taupik Apriansyah](img/github-header-banner.png)
 
 <!--
 **TaupikApriansyah/TaupikApriansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently **laravel** 
+🌱 I’m currently **React** 
