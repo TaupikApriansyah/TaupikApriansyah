@@ -16,9 +16,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🌱 I’m currently **React** 
 🌱 I’m currently **laravel** 
-<<<<<<< HEAD
-🌱 I’m currently **React** 
-=======
-🌱 I’m currently **React** 
->>>>>>> b27a8e265e8988a1f6fd8cab8b8f669b85db0835
+<h2 align="left">u wanna play with me?</h2>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TaupikApriansyah/TaupikApriansyah/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TaupikApriansyah/TaupikApriansyah/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TaupikApriansyah/TaupikApriansyah/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+
+
